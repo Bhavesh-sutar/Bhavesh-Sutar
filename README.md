@@ -1,9 +1,5 @@
 # Bhavesh Sutar
 
-## Currently
-- Building **Reflecta**, a mental wellness web application with journaling CRUD and Breathing with background tasks
-- Improving backend fundamentals: APIs, databases, and system-level thinking
-
 ## Technical Skills
 - **Languages:** Python, Express.js, react.js
 - **Databases:** MySQL, PostgreSQL, MongoDB  
