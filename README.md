@@ -5,10 +5,10 @@
 - Improving backend fundamentals: APIs, databases, and system-level thinking
 
 ## Technical Skills
-- **Languages:** Python, Java  
-- **Databases:** MySQL, PostgreSQL  
+- **Languages:** Python, Express.js, react.js
+- **Databases:** MySQL, PostgreSQL, MongoDB  
 - **Tools:** Git, Github, Linux, Postman  
-- **Concepts:** OOP, REST APIs, System design
+- **Concepts:** OOP, REST APIs, System design, JWT
 
 ## Projects
 - **Vexa – Modular Voice Assistant (Python)**  
