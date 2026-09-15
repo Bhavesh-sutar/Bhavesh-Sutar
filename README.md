@@ -1,10 +1,10 @@
 # Bhavesh Sutar
 
 ## Technical Skills
-- **Languages:** Python, Express.js, react.js
+- **Languages:** Python, JavaScript
 - **Databases:** MySQL, PostgreSQL, MongoDB  
-- **Tools:** Git, Github, Linux, Postman  
-- **Concepts:** OOP, REST APIs, System design, JWT
+- **Tools:** Git, Github, Postman, Vs Code, Antigravity CLI  
+- **Concepts:** Authentication, Authorization, REST API, API Testing, JWT
 
 ## Projects
 - **Vexa – Modular Voice Assistant (Python)**  
